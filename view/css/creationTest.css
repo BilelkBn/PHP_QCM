@@ -1,0 +1,16 @@
+.w-full{
+	margin: auto;
+	margin-top: 3%;
+}
+
+.w-full #valid {
+	display: none;
+	height: 25%;
+	width: 25%;
+	margin: auto;
+}
+
+.w-full #valid p{
+	text-align: center;
+	margin-top: 1em;
+}
